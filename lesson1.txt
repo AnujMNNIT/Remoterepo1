@@ -1,1 +1,14 @@
 This is first lab of VCS.I am using git.
+Hello:)
+Hi
+Introduction to version control systems
+There are three types of VCS
+local
+Centralized
+Distributed
+Chalo ye bhi thik hai! 
+I will compare it with stagged lesson1.txt
+practising checkout
+Hello Kitty:)
+Again modification
+
